@@ -5,7 +5,7 @@
 
 ### 👋 About Me
 
-Hey there! I'm Elias, also known as **BudCoder** – a Brazilian Front-End Developer with a passion for clean code, creative interfaces and a bit of canna-inspired clarity. Currently studying IT at **ECA College in Sydney** 🇦🇺 and building projects that mix function, beauty and performance.
+Hey there! I'm Elias, also known as **BudCoder** – a Brazilian Front-End Developer with a passion for clean code and creative interfaces. Currently studying IT at **ECA College in Sydney** 🇦🇺 and building projects that mix function, beauty and performance.
 
 - 👨‍💻 Front-End focused (HTML, CSS, JS, React)
 - 🎓 Student @ ECA College | 1.5-year IT program
