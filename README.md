@@ -1,35 +1,62 @@
-<h1 align="center">🚀 BudCoder aka Elias Filho 👨‍💻</h1>
-<p align="center">Front-End Dev • Design Lover • Tech-High Thinker 🌿</p>
+<!--
+  README para perfil GitHub de EliasFilho87
+  Gerações automáticas de badges e seções para destacar projetos e skills
+-->
+
+# 👋 Olá, eu sou Elias Filho (BudCoder Crew)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/eliasfilho87)
+[![Website](https://img.shields.io/badge/-budcoder.dev-000?style=flat-square&logo=visual-studio-code)](https://budcoder.dev)
+[![GitHub followers](https://img.shields.io/github/followers/EliasFilho87?label=Follow&style=flat-square)](https://github.com/EliasFilho87)
+[![Top Langs](https://img.shields.io/github/languages/top/EliasFilho87/EliasFilho87?style=flat-square)](https://github.com/EliasFilho87)
+
+## 🎯 Sobre Mim
+
+- 🚀 **Front-end Developer & Automation Enthusiast**
+- 🎓 Ingressando em **Diploma of IT** na [ECA College (Sydney)](https://ecacollege.edu.au) – previsão de início: Outubro/2025
+- 🗣️ Fluent in English (PTE Advanced)
+- 💼 Experiência em **design gráfico**, **edição de vídeo** e **automação de marketing**
+- 🌱 Atualmente focado em **Next.js**, **Tailwind CSS** e **Chatbot/Automations**
 
 ---
 
-### 👋 About Me
+## 🛠️ Tech Stack
 
-Hey there! I'm Elias, also known as **BudCoder** – a Brazilian Front-End Developer with a passion for clean code and creative interfaces. Currently studying IT at **ECA College in Sydney** 🇦🇺 and building projects that mix function, beauty and performance.
-
-- 👨‍💻 Front-End focused (HTML, CSS, JS, React)
-- 🎓 Student @ ECA College | 1.5-year IT program
-- 🛠️ Also skilled in Graphic Design & Video Editing
-- 🌱 Fan of everything tech, green and growth
-
----
-
-### 🚀 Projects
-
-Here's a taste of what I'm building:
-
-- **[🌤️ Weather App (React)](#)** – Real-time weather using OpenWeather API  
-- **[🎬 Netflix Clone]** – Styled UI and responsive layout  
-- **[📱 Personal Portfolio]** – Animated sections with Framer Motion  
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat-square" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&style=flat-square" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=flat-square" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=flat-square" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&style=flat-square" alt="Git" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+## 🚩 Projetos em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elias-oliveira-0385ab318/)  
-[📧 Email](mailto:elias.seu@email.com)  
-🌐 Portfolio coming soon at [budcoder.dev](https://budcoder.dev)
+| Projeto                   | Descrição                                               | Demo/Link                                     |
+|---------------------------|---------------------------------------------------------|-----------------------------------------------|
+| [Netflix Clone](https://github.com/EliasFilho87/netflix-clone)  | Clone UI do Netflix em React + Tailwind                | [Live Demo]()                                 |
+| [Weather App](https://github.com/EliasFilho87/weather-app)      | Aplicativo de clima com API OpenWeather e UI responsiva| [Live Demo]()                                 |
+| [Fluxo Inteligente](https://github.com/EliasFilho87/fluxo-inteligente) | Automação de marketing e chatbots para empresas        | [Live Demo]()                                 |
+| [NeoRobo](https://github.com/EliasFilho87/NeoRobo)              | Bot de automação inteligente (WhatsApp, Zapier)        | [Live Demo]()                                 |
+
+> Outros projetos estão disponíveis no meu [GitHub](https://github.com/EliasFilho87?tab=repositories).
 
 ---
 
-> “Stay high on code and focused on dreams.” – BudCoder ✌️
+## 📫 Como Me Encontrar
+
+- 🌐 Portfólio: [budcoder.dev](https://budcoder.dev)
+- ✉️ Email: elias@budcoder.dev
+- 💬 WhatsApp: +55 84 92152-8479
+
+---
+
+> "Code with clarity, live with purpose."  
+> BudCoder by Elias Filho
