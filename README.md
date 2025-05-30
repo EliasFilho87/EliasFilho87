@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Elias Filho (BudCoder Crew)
+# 👋 Hi, I’m Elias Filho 
 
 🎯 **About Me**  
 I’m an IT & Front-End enthusiast on the verge of becoming a cybersecurity professional. With a strong foundation in web development, automation, and graphic design, I’m now focusing on InfoSec fundamentals, threat detection, and secure architecture.
